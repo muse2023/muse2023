@@ -1,11 +1,9 @@
 # 👋 你好，我是 muse2023
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0891b2&height=150&section=header&text=muse2023&fontSize=70&fontAlignY=35" alt="Header" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0891b2&center=true&vCenter=true&width=435&lines=热爱技术的开发者;Exploring+the+Future;构建有意义的项目" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=0891B2&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+muse2023's+Space;热爱技术的开发者;专注网络相关项目开发" alt="Typing SVG" />
+  </a>
 </p>
 
 ### 🤡 关于我
