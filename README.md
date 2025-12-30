@@ -1,15 +1,15 @@
 # 👋 你好，我是 muse2023
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20World&fontSize=50&animation=fadeIn&fontAlignY=35" alt="Header" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0891b2&height=150&section=header&text=muse2023&fontSize=70&fontAlignY=35" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue-dark" alt="Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0891b2&center=true&vCenter=true&width=435&lines=热爱技术的开发者;Exploring+the+Future;构建有意义的项目" alt="Typing SVG" />
 </p>
 
-### 💫 关于我
-- 🔭 **目前关注**：探索前沿技术，构建有意义的项目。
+### 🤡 关于我
+- 🔭 **目前关注**：探索前沿技术，构建有网络相关的的项目
 - 🌱 **正在学习**：深入研究系统架构与云原生生态。
 - 💬 **交流方向**：欢迎讨论任何关于技术、架构或创新的想法。
 - 📫 **联系我**：[您的邮箱/知乎/博客]
