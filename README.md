@@ -1,7 +1,11 @@
 # 👋 Hello, I'm muse2023
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muse2023&show_icons=true&theme=transparent&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=4b5563" alt="muse2023's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muse2023&show_icons=true&theme=vue-dark&hide_border=true" alt="muse2023's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muse2023&layout=compact&theme=vue-dark&hide_border=true" alt="Top Langs" />
 </p>
 
 ### 💫 关于我
@@ -17,12 +21,11 @@
   </a>
 </p>
 
-### 📊 GitHub 统计
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muse2023&layout=compact&theme=transparent&hide_border=true&title_color=0891b2&text_color=4b5563" alt="Top Langs" />
-</p>
-
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muse2023&label=Profile%20views&color=0891b2&style=flat" alt="Views" />
+</p>
 
 <p align="center">
   <a href="https://github.com/muse2023">
