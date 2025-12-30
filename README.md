@@ -1,18 +1,18 @@
-# 👋 Hello, I'm muse2023
+# 👋 你好，我是 muse2023
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muse2023&show_icons=true&theme=vue-dark&hide_border=true" alt="muse2023's GitHub stats" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20World&fontSize=50&animation=fadeIn&fontAlignY=35" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muse2023&layout=compact&theme=vue-dark&hide_border=true" alt="Top Langs" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue-dark" alt="Quote" />
 </p>
 
 ### 💫 关于我
-- 🔭 我目前正在开发一些有趣的项目。
-- 🌱 我正在学习高级系统架构和云原生技术。
-- 💬 欢迎与我交流任何软件开发相关的话题。
-- 📫 联系方式：[您的邮箱/知乎/博客]
+- 🔭 **目前关注**：探索前沿技术，构建有意义的项目。
+- 🌱 **正在学习**：深入研究系统架构与云原生生态。
+- 💬 **交流方向**：欢迎讨论任何关于技术、架构或创新的想法。
+- 📫 **联系我**：[您的邮箱/知乎/博客]
 
 ### 🛠 技术栈
 <p align="left">
